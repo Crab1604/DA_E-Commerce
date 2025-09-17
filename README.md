@@ -1,5 +1,5 @@
 # DA_E-Commerce
-Đề tài “Triển khai giải pháp thương mại điện tử B2C nhằm nâng cao trải nghiệm mua sắm mỹ phẩm” tập trung nghiên cứu và xây dựng một hệ thống thương mại điện tử theo mô hình Business to Consumer (B2C) dành riêng cho lĩnh vực mỹ phẩm. Mục tiêu chính của đề tài là mang lại cho khách hàng một trải nghiệm mua sắm hiện đại, tiện lợi và cá nhân hóa, đồng thời giúp doanh nghiệp tối ưu hoạt động kinh doanh trực tuyến.
+Đề tài “Triển khai giải pháp thương mại điện tử B2C nhằm nâng cao trải nghiệm mua sắm mỹ phẩm” tập trung nghiên cứu và xây dựng một web thương mại điện tử theo mô hình Business to Consumer (B2C) dành riêng cho lĩnh vực mỹ phẩm. Mục tiêu chính của đề tài là mang lại cho khách hàng một trải nghiệm mua sắm hiện đại, tiện lợi và cá nhân hóa, đồng thời giúp doanh nghiệp tối ưu hoạt động kinh doanh trực tuyến.
 
 Hệ thống sẽ tích hợp các chức năng cơ bản như: quản lý sản phẩm, giỏ hàng, thanh toán trực tuyến, quản lý đơn hàng; đồng thời bổ sung những giải pháp nâng cao trải nghiệm người dùng như:
 
